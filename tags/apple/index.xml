@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apple on SiliconValley de Engineer</title>
+    <link>http://hiroyukikawaigithub.com/tags/apple/</link>
+    <description>Recent content in Apple on SiliconValley de Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Hiroyuki Kawai all rights reserved.</copyright>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hiroyukikawaigithub.com/tags/apple/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>テストです。</title>
+      <link>http://hiroyukikawaigithub.com/post/accumsan-ultricies-turpis/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://hiroyukikawaigithub.com/post/accumsan-ultricies-turpis/</guid>
+      <description>Image via CrunchBase   Volutpat vel consequat eget. Et egestas sit amet velit.
+ Duis turpis libero, pretium et mauris eu, volutpat mollis tellus. Donec malesuada vel augue sit amet imperdiet. Vestibulum maximus et leo non laoreet.
+ Maecenas erat lacus, volutpat vel consequat eget, egestas sit amet velit. Mauris a velit imperdiet, dictum leo sit amet, tempor tellus. Vestibulum a congue tortor. Quisque luctus tincidunt neque ornare cursus.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Us on SiliconValley de Engineer</title>
+    <link>http://hiroyukikawaigithub.com/tags/us/</link>
+    <description>Recent content in Us on SiliconValley de Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017, Hiroyuki Kawai all rights reserved.</copyright>
+    <lastBuildDate>Sat, 20 May 2017 16:02:07 -0700</lastBuildDate>
+    
+	<atom:link href="http://hiroyukikawaigithub.com/tags/us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>リニューアル</title>
+      <link>http://hiroyukikawaigithub.com/post/20170520_0/</link>
+      <pubDate>Sat, 20 May 2017 16:02:07 -0700</pubDate>
+      
+      <guid>http://hiroyukikawaigithub.com/post/20170520_0/</guid>
+      <description>何度も何度も挫折しているブログですが、HUGO＋GITHUBでまた更新しました。 WORDPRESSの読み込みの遅さや編集の結構な面倒くささが、無精者の自分には合わないようです。 むしろ、HUGOですべてローカルで書いてしまったほうがサクサクしていてよい。
+というわけで、今度はどれだけ続くか分かりませんが、こちらでブログを進めてみます。 ネタは、アメリカ生活からマニアックなことまで。
+宜しくお願いします。</description>
+    </item>
+    
+  </channel>
+</rss>
